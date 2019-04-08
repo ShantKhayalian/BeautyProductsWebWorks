@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\Works\Eclipse Servlet\BeautyWeb\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1237970461.index
+2867599148.index
+223657096.index
+439541432.index
+490526004.index
+483983811.index

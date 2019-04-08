@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BeautyWeb.iml" filepath="$PROJECT_DIR$/BeautyWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithRILibs/FaceletsKickStartWithRILibs.iml" filepath="$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithRILibs/FaceletsKickStartWithRILibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithoutLibs/FaceletsKickStartWithoutLibs.iml" filepath="$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2-facelets/FaceletsKickStartWithoutLibs/FaceletsKickStartWithoutLibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithLibs/JSFKickStartWithLibs.iml" filepath="$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithLibs/JSFKickStartWithLibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithoutLibs/JSFKickStartWithoutLibs.iml" filepath="$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.1/JSFKickStartWithoutLibs/JSFKickStartWithoutLibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.0/JSFKickStartWithoutLibs/JSFKickStartWithoutLibs1.iml" filepath="$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.0/JSFKickStartWithoutLibs/JSFKickStartWithoutLibs1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.1/JSFKickStartWithoutLibs/JSFKickStartWithoutLibs2.iml" filepath="$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.1/JSFKickStartWithoutLibs/JSFKickStartWithoutLibs2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2/JSFKickStartWithoutLibs/JSFKickStartWithoutLibs3.iml" filepath="$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-1.2/JSFKickStartWithoutLibs/JSFKickStartWithoutLibs3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.2/JSFKickStartWithoutLibs/JSFKickStartWithoutLibs4.iml" filepath="$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.common.projecttemplates/templates/jsf-2.2/JSFKickStartWithoutLibs/JSFKickStartWithoutLibs4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/work/Catalina/localhost/localhost.iml" filepath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/work/Catalina/localhost/localhost.iml" />
+    </modules>
+  </component>
+</project>

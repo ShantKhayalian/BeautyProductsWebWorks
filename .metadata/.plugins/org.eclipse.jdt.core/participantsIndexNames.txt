@@ -1,0 +1,17 @@
+INDEX VERSION 1.131
+D:\Works\Eclipse Servlet\BeautyWeb\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3509117840.index
+\BeautyWeb\src\main\java
+D:\Works\Eclipse Servlet\BeautyWeb\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2135467709.index
+\BeautyWeb\src\main\java
+D:\Works\Eclipse Servlet\BeautyWeb\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2177901053.index
+\BeautyWeb\src\main\java
+D:\Works\Eclipse Servlet\BeautyWeb\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1237970461.index
+\BeautyWeb\src\main\java
+D:\Works\Eclipse Servlet\BeautyWeb\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3827714137.index
+\BeautyWeb\src\main\java
+D:\Works\Eclipse Servlet\BeautyWeb\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\988197303.index
+\BeautyWeb\src\main\java
+D:\Works\Eclipse Servlet\BeautyWeb\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4144805209.index
+\BeautyWeb\src\main\java
+D:\Works\Eclipse Servlet\BeautyWeb\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2236378087.index
+\BeautyWeb\src\main\java

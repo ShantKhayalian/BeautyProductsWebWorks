@@ -1,0 +1,1845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="BeautyWeb:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ff77581-6beb-40fe-8248-f3c93dea350e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideWarnings" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1921034996">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="0-SNAPSHOT" value="1" />
+          <entry key="brands" value="1" />
+          <entry key="class" value="1" />
+          <entry key="css" value="7" />
+          <entry key="exe" value="1" />
+          <entry key="html" value="3" />
+          <entry key="java" value="64" />
+          <entry key="js" value="28" />
+          <entry key="jsp" value="58" />
+          <entry key="sql" value="1" />
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="CSS" value="7" />
+          <entry key="Database Element" value="1" />
+          <entry key="HTML" value="3" />
+          <entry key="JAVA" value="64" />
+          <entry key="JSP" value="58" />
+          <entry key="JavaScript" value="28" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Scratch" value="1" />
+          <entry key="UML" value="1" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2802" />
+          <entry key="js" value="1" />
+          <entry key="jsp" value="1394" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2802" />
+          <entry key="JSP" value="1394" />
+          <entry key="JavaScript" value="1" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerBusinesCart.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="449">
+              <caret line="309" column="88" selection-start-line="309" selection-start-column="88" selection-end-line="309" selection-end-column="88" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="430" column="51" selection-start-line="430" selection-start-column="51" selection-end-line="430" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerInbox.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="295" column="70" lean-forward="true" selection-start-line="295" selection-start-column="59" selection-end-line="295" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Bean/Brands.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="64" column="64" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>brandWebId</find>
+      <find>like</find>
+      <find>reminder</find>
+      <find>seller</find>
+      <find>marc</find>
+      <find>wrong</find>
+      <find>set</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/BeautyIt/BP/UserController/CheckLogin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BeautyIt/BP/Bean/Users.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BeautyIt/BP/UserController/UserUpdateUserProfile.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/UserUpdateProfile.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddBrand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerLogoBrand.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin/jquery/jquery.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin/jquery/jquery.min.js" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/BeautyIt/BP/SocialController/IdTokenVerifierAndParser.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/LoginGmail.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/welcome-page.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/BeautyIt/BP/SocialController/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/ShowBusinessCart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BeautyIt/BP/Bean/Brands.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BeautyIt/BP/ImageController/AddLogo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerAccount.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerAddBrand.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerAddressBook.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerChangePassword.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerChangingResults.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerCompose.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerInbox.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerLogoBrand.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerMessageSend.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerReadUserInbox.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerReplay.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerUpdateProfile.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerBusinesCart.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="BeautyWeb" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="BeautyWeb" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BeautyWeb/Users/bower_components/Flot/package.json" />
+      <path value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BeautyWeb/Users/bower_components/bootstrap-datepicker/package.json" />
+      <path value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BeautyWeb/Users/bower_components/bootstrap-daterangepicker/package.json" />
+      <path value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BeautyWeb/Users/bower_components/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BeautyWeb/Users/bower_components/chart.js/package.json" />
+      <path value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BeautyWeb/Users/bower_components/ckeditor/package.json" />
+      <path value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BeautyWeb/Users/bower_components/eve-raphael/package.json" />
+      <path value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BeautyWeb/Users/bower_components/ion.rangeSlider/package.json" />
+      <path value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BeautyWeb/Users/bower_components/jquery-knob/package.json" />
+      <path value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BeautyWeb/Users/bower_components/jquery-slimscroll/package.json" />
+      <path value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BeautyWeb/Users/bower_components/jquery-ui/package.json" />
+      <path value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BeautyWeb/Users/bower_components/morris.js/package.json" />
+      <path value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BeautyWeb/Users/bower_components/select2/package.json" />
+      <path value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BeautyWeb/Users/package.json" />
+      <path value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BeautyWeb/bower_components/Flot/package.json" />
+      <path value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BeautyWeb/bower_components/bootstrap-datepicker/package.json" />
+      <path value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BeautyWeb/bower_components/bootstrap-daterangepicker/package.json" />
+      <path value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BeautyWeb/bower_components/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BeautyWeb/bower_components/chart.js/package.json" />
+      <path value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BeautyWeb/bower_components/ckeditor/package.json" />
+      <path value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BeautyWeb/bower_components/eve-raphael/package.json" />
+      <path value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BeautyWeb/bower_components/ion.rangeSlider/package.json" />
+      <path value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BeautyWeb/bower_components/jquery-knob/package.json" />
+      <path value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BeautyWeb/bower_components/jquery-slimscroll/package.json" />
+      <path value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BeautyWeb/bower_components/jquery-ui/package.json" />
+      <path value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BeautyWeb/bower_components/morris.js/package.json" />
+      <path value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BeautyWeb/bower_components/select2/package.json" />
+      <path value="$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin/bower_components/Flot/package.json" />
+      <path value="$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin/bower_components/bootstrap-datepicker/package.json" />
+      <path value="$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin/bower_components/bootstrap-daterangepicker/package.json" />
+      <path value="$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin/bower_components/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin/bower_components/chart.js/package.json" />
+      <path value="$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin/bower_components/ckeditor/package.json" />
+      <path value="$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin/bower_components/eve-raphael/package.json" />
+      <path value="$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin/bower_components/ion.rangeSlider/package.json" />
+      <path value="$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin/bower_components/jquery-knob/package.json" />
+      <path value="$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin/bower_components/jquery-slimscroll/package.json" />
+      <path value="$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin/bower_components/jquery-ui/package.json" />
+      <path value="$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin/bower_components/morris.js/package.json" />
+      <path value="$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin/bower_components/select2/package.json" />
+      <path value="$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin/package.json" />
+      <path value="$PROJECT_DIR$/src/main/webapp/bower_components/Flot/package.json" />
+      <path value="$PROJECT_DIR$/src/main/webapp/bower_components/bootstrap-datepicker/package.json" />
+      <path value="$PROJECT_DIR$/src/main/webapp/bower_components/bootstrap-daterangepicker/package.json" />
+      <path value="$PROJECT_DIR$/src/main/webapp/bower_components/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/src/main/webapp/bower_components/chart.js/package.json" />
+      <path value="$PROJECT_DIR$/src/main/webapp/bower_components/ckeditor/package.json" />
+      <path value="$PROJECT_DIR$/src/main/webapp/bower_components/eve-raphael/package.json" />
+      <path value="$PROJECT_DIR$/src/main/webapp/bower_components/ion.rangeSlider/package.json" />
+      <path value="$PROJECT_DIR$/src/main/webapp/bower_components/jquery-knob/package.json" />
+      <path value="$PROJECT_DIR$/src/main/webapp/bower_components/jquery-slimscroll/package.json" />
+      <path value="$PROJECT_DIR$/src/main/webapp/bower_components/jquery-ui/package.json" />
+      <path value="$PROJECT_DIR$/src/main/webapp/bower_components/morris.js/package.json" />
+      <path value="$PROJECT_DIR$/src/main/webapp/bower_components/select2/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bepr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bepr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bepr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bepr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bepr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bepr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bepr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bepr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bepr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bepr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="BP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bepr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bepr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="BP" type="462c0819:PsiDirectoryNode" />
+              <item name="Bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bepr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bepr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="BP" type="462c0819:PsiDirectoryNode" />
+              <item name="BrandController" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bepr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bepr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="BP" type="462c0819:PsiDirectoryNode" />
+              <item name="Dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bepr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bepr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="BP" type="462c0819:PsiDirectoryNode" />
+              <item name="ImageController" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bepr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bepr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bepr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bepr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bepr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bepr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bepr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bepr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554746464274" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="D:/Download Samples/Drag-Drop-File-Upload-Plugin-For-Bootstrap-dropzone" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\bepr\src\main\webapp" />
+      <recent name="D:\bepr\src\main\webapp\WEB-INF\Admin" />
+      <recent name="D:\bepr\src\main\webapp\WEB-INF\Admin\plugins" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\bepr\src\main\webapp\css" />
+      <recent name="D:\bepr\src\main\webapp\plugins" />
+      <recent name="D:\bepr\src\main\webapp\js" />
+      <recent name="D:\bepr\src\main\webapp\WEB-INF\Admin\plugins" />
+      <recent name="D:\bepr\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Unnamed">
+    <configuration name="calendar.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/webapi/pages/calendar.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.13" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="BeautyWeb:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_bepr_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57565" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="BeautyWeb:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Unnamed" />
+      <item itemvalue="JavaScript Debug.calendar.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.calendar.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ff77581-6beb-40fe-8248-f3c93dea350e" name="Default Changelist" comment="" />
+      <created>1553884681851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553884681851</updated>
+      <workItem from="1553884688509" duration="1997000" />
+      <workItem from="1553928061075" duration="10416000" />
+      <workItem from="1553938625911" duration="2832000" />
+      <workItem from="1553956762055" duration="17528000" />
+      <workItem from="1553981324753" duration="1892000" />
+      <workItem from="1554014471215" duration="7793000" />
+      <workItem from="1554210423559" duration="1125000" />
+      <workItem from="1554220807428" duration="953000" />
+      <workItem from="1554467865048" duration="774000" />
+      <workItem from="1554620793860" duration="3656000" />
+      <workItem from="1554699968033" duration="14711000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="63677000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49475262" visible="true" weight="0.20895523" />
+      <window_info id="Structure" order="1" sideWeight="0.5007924" side_tool="true" weight="0.19616205" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.50524735" side_tool="true" weight="0.20895523" />
+      <window_info anchor="bottom" id="Database Console" order="0" weight="0.329718" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.20281996" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.31561822" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49946696" weight="0.329718" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="JSF" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Database" order="9" weight="0.24093817" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.20095949" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>100</line>
+          <properties />
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>101</line>
+          <properties />
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>102</line>
+          <properties />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>105</line>
+          <properties />
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>106</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>408</line>
+          <properties />
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddBrand.java</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddBrand.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddBrand.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddBrand.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddBrand.java</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddBrand.java</url>
+          <line>105</line>
+          <properties />
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddBrand.java</url>
+          <line>113</line>
+          <properties />
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddBrand.java</url>
+          <line>115</line>
+          <properties />
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/UserController/CheckLogin.java</url>
+          <line>169</line>
+          <properties />
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/UserController/UserUpdateUserProfile.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/UserController/UserUpdateUserProfile.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/UserController/UserUpdateUserProfile.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/UserController/UserUpdateUserProfile.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/UserController/UserUpdateUserProfile.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/UserController/UserUpdateUserProfile.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/UserController/UserUpdateUserProfile.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/UserController/UserUpdateUserProfile.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/UserController/UserUpdateUserProfile.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/UserController/UserUpdateUserProfile.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/UserController/UserUpdateUserProfile.java</url>
+          <line>94</line>
+          <properties />
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/UserController/UserUpdateUserProfile.java</url>
+          <line>113</line>
+          <properties />
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/UserController/UserUpdateUserProfile.java</url>
+          <line>121</line>
+          <properties />
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/UserController/UserUpdateUserProfile.java</url>
+          <line>106</line>
+          <properties />
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/UserController/UserUpdateUserProfile.java</url>
+          <line>104</line>
+          <properties />
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/UserController/UserUpdateUserProfile.java</url>
+          <line>132</line>
+          <properties />
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/UserController/UserUpdateUserProfile.java</url>
+          <line>136</line>
+          <properties />
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/UserController/UserUpdateUserProfile.java</url>
+          <line>142</line>
+          <properties />
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/UserController/UserUpdateUserProfile.java</url>
+          <line>144</line>
+          <properties />
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/UserController/UserUpdateUserProfile.java</url>
+          <line>146</line>
+          <properties />
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/UserController/UserUpdateUserProfile.java</url>
+          <line>141</line>
+          <properties />
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddBrand.java</url>
+          <line>93</line>
+          <properties />
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddBrand.java</url>
+          <line>106</line>
+          <properties />
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddBrand.java</url>
+          <line>112</line>
+          <properties />
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>120</line>
+          <properties />
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>89</line>
+          <properties />
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>138</line>
+          <properties />
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>147</line>
+          <properties />
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>148</line>
+          <properties />
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>153</line>
+          <properties />
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>165</line>
+          <properties />
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>172</line>
+          <properties />
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>182</line>
+          <properties />
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>191</line>
+          <properties />
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>202</line>
+          <properties />
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>196</line>
+          <properties />
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>243</line>
+          <properties />
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>126</line>
+          <properties />
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>128</line>
+          <properties />
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>129</line>
+          <properties />
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>132</line>
+          <properties />
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>133</line>
+          <properties />
+          <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>130</line>
+          <properties />
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/ImageController/AddLogo.java</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="282" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/ImageController/AddLogo.java</url>
+          <line>236</line>
+          <properties />
+          <option name="timeStamp" value="306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/ImageController/AddLogo.java</url>
+          <line>237</line>
+          <properties />
+          <option name="timeStamp" value="307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/ImageController/AddLogo.java</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="319" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/ImageController/AddLogo.java</url>
+          <line>97</line>
+          <properties />
+          <option name="timeStamp" value="320" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/ImageController/AddLogo.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="321" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/ImageController/AddLogo.java</url>
+          <line>99</line>
+          <properties />
+          <option name="timeStamp" value="322" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/ImageController/AddLogo.java</url>
+          <line>100</line>
+          <properties />
+          <option name="timeStamp" value="323" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/ImageController/AddLogo.java</url>
+          <line>168</line>
+          <properties />
+          <option name="timeStamp" value="341" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/ImageController/AddLogo.java</url>
+          <line>169</line>
+          <properties />
+          <option name="timeStamp" value="342" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/ImageController/AddLogo.java</url>
+          <line>170</line>
+          <properties />
+          <option name="timeStamp" value="343" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/ImageController/AddLogo.java</url>
+          <line>171</line>
+          <properties />
+          <option name="timeStamp" value="344" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/ImageController/AddLogo.java</url>
+          <line>172</line>
+          <properties />
+          <option name="timeStamp" value="345" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/ImageController/AddLogo.java</url>
+          <line>192</line>
+          <properties />
+          <option name="timeStamp" value="347" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/ImageController/AddLogo.java</url>
+          <line>193</line>
+          <properties />
+          <option name="timeStamp" value="348" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/ImageController/AddLogo.java</url>
+          <line>194</line>
+          <properties />
+          <option name="timeStamp" value="349" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/ImageController/AddLogo.java</url>
+          <line>196</line>
+          <properties />
+          <option name="timeStamp" value="350" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/ImageController/AddLogo.java</url>
+          <line>86</line>
+          <properties />
+          <option name="timeStamp" value="351" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/ImageController/AddLogo.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="352" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/ImageController/AddLogo.java</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="353" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/ImageController/AddLogo.java</url>
+          <line>90</line>
+          <properties />
+          <option name="timeStamp" value="354" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/ImageController/AddLogo.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="355" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/ImageController/AddLogo.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="356" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/SocialController/LoginServlet.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="386" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/SocialController/LoginServlet.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="387" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/SocialController/LoginServlet.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="388" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/SocialController/LoginServlet.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="390" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/SocialController/LoginServlet.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="391" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/SocialController/LoginServlet.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="392" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/SocialController/LoginServlet.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="393" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/SocialController/LoginServlet.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="394" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/SocialController/LoginServlet.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="395" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddBrand.java</url>
+          <line>101</line>
+          <properties />
+          <option name="timeStamp" value="396" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>212</line>
+          <properties />
+          <option name="timeStamp" value="397" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>107</line>
+          <properties />
+          <option name="timeStamp" value="398" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>108</line>
+          <properties />
+          <option name="timeStamp" value="399" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>109</line>
+          <properties />
+          <option name="timeStamp" value="400" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="401" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>93</line>
+          <properties />
+          <option name="timeStamp" value="402" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>90</line>
+          <properties />
+          <option name="timeStamp" value="403" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>374</line>
+          <properties />
+          <option name="timeStamp" value="404" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>376</line>
+          <properties />
+          <option name="timeStamp" value="405" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>377</line>
+          <properties />
+          <option name="timeStamp" value="406" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>392</line>
+          <properties />
+          <option name="timeStamp" value="409" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>395</line>
+          <properties />
+          <option name="timeStamp" value="410" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>397</line>
+          <properties />
+          <option name="timeStamp" value="411" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>380</line>
+          <properties />
+          <option name="timeStamp" value="423" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>390</line>
+          <properties />
+          <option name="timeStamp" value="424" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>388</line>
+          <properties />
+          <option name="timeStamp" value="425" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>386</line>
+          <properties />
+          <option name="timeStamp" value="426" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>384</line>
+          <properties />
+          <option name="timeStamp" value="427" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>383</line>
+          <properties />
+          <option name="timeStamp" value="428" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>382</line>
+          <properties />
+          <option name="timeStamp" value="429" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>381</line>
+          <properties />
+          <option name="timeStamp" value="430" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>385</line>
+          <properties />
+          <option name="timeStamp" value="431" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>387</line>
+          <properties />
+          <option name="timeStamp" value="432" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>389</line>
+          <properties />
+          <option name="timeStamp" value="433" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="434" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>97</line>
+          <properties />
+          <option name="timeStamp" value="435" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>100</line>
+          <properties />
+          <option name="timeStamp" value="436" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>101</line>
+          <properties />
+          <option name="timeStamp" value="437" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>364</line>
+          <properties />
+          <option name="timeStamp" value="438" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>367</line>
+          <properties />
+          <option name="timeStamp" value="439" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>369</line>
+          <properties />
+          <option name="timeStamp" value="440" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>361</line>
+          <properties />
+          <option name="timeStamp" value="441" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>358</line>
+          <properties />
+          <option name="timeStamp" value="442" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>359</line>
+          <properties />
+          <option name="timeStamp" value="443" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java</url>
+          <line>354</line>
+          <properties />
+          <option name="timeStamp" value="444" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java</url>
+          <line>123</line>
+          <properties class="BeautyIt.BP.BrandController.SellerAddNewBrand" method="AddNewBrandToData">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/ImageController/AddLogo.java</url>
+          <line>166</line>
+          <properties class="BeautyIt.BP.ImageController.AddLogo" method="AddLogoToData">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="346" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin/plugins/node-waves/waves.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin/plugins/jquery/jquery.min.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin/plugins/jquery/jquery.js" />
+    <entry file="uml://MAVEN/BeautyP:BeautyWeb:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>BeautyP:BeautyWeb:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">BeautyP:BeautyWeb:1.0-SNAPSHOT</node>
+            <node x="" y="">junit:junit:jar:3.8.2</node>
+            <node x="" y="">com.google.protobuf:protobuf-java:bundle:3.6.1</node>
+            <node x="" y="">javax.servlet:jstl:jar:1.2</node>
+            <node x="" y="">javax.mail:mail:jar:1.4</node>
+            <node x="" y="">javax.mail:mail:jar:1.4/javax.activation:activation:jar:1.1</node>
+            <node x="" y="">javax.xml.bind:jaxb-api:jar:2.3.0</node>
+            <node x="" y="">com.sun.xml.bind:jaxb-impl:jar:2.3.0</node>
+            <node x="" y="">org.glassfish.jaxb:jaxb-runtime:jar:2.3.0</node>
+            <node x="" y="">org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/org.glassfish.jaxb:jaxb-core:jar:2.3.0</node>
+            <node x="" y="">org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/org.glassfish.jaxb:jaxb-core:jar:2.3.0/org.glassfish.jaxb:txw2:jar:2.3.0</node>
+            <node x="" y="">org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/org.glassfish.jaxb:jaxb-core:jar:2.3.0/com.sun.istack:istack-commons-runtime:jar:3.0.5</node>
+            <node x="" y="">org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/org.jvnet.staxex:stax-ex:jar:1.7.8</node>
+            <node x="" y="">org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/com.sun.xml.fastinfoset:FastInfoset:jar:1.2.13</node>
+            <node x="" y="">javax.activation:activation:jar:1.1.1</node>
+            <node x="" y="">mysql:mysql-connector-java:jar:8.0.15</node>
+            <node x="" y="">mysql:mysql-connector-java:jar:8.0.15/com.google.protobuf:protobuf-java:jar:3.6.1</node>
+            <node x="" y="">org.glassfish.jersey.containers:jersey-container-servlet-core:jar:2.16</node>
+            <node x="" y="">org.glassfish.jersey.containers:jersey-container-servlet-core:jar:2.16/org.glassfish.hk2.external:javax.inject:jar:2.4.0-b09</node>
+            <node x="" y="">org.glassfish.jersey.containers:jersey-container-servlet-core:jar:2.16/org.glassfish.jersey.core:jersey-common:jar:2.16</node>
+            <node x="" y="">org.glassfish.jersey.containers:jersey-container-servlet-core:jar:2.16/org.glassfish.jersey.core:jersey-common:jar:2.16/javax.annotation:javax.annotation-api:jar:1.2</node>
+            <node x="" y="">org.glassfish.jersey.containers:jersey-container-servlet-core:jar:2.16/org.glassfish.jersey.core:jersey-common:jar:2.16/org.glassfish.jersey.bundles.repackaged:jersey-guava:jar:2.16</node>
+            <node x="" y="">org.glassfish.jersey.containers:jersey-container-servlet-core:jar:2.16/org.glassfish.jersey.core:jersey-common:jar:2.16/org.glassfish.hk2:hk2-api:jar:2.4.0-b09</node>
+            <node x="" y="">org.glassfish.jersey.containers:jersey-container-servlet-core:jar:2.16/org.glassfish.jersey.core:jersey-common:jar:2.16/org.glassfish.hk2:hk2-api:jar:2.4.0-b09/org.glassfish.hk2:hk2-utils:jar:2.4.0-b09</node>
+            <node x="" y="">org.glassfish.jersey.containers:jersey-container-servlet-core:jar:2.16/org.glassfish.jersey.core:jersey-common:jar:2.16/org.glassfish.hk2:hk2-api:jar:2.4.0-b09/org.glassfish.hk2.external:aopalliance-repackaged:jar:2.4.0-b09</node>
+            <node x="" y="">org.glassfish.jersey.containers:jersey-container-servlet-core:jar:2.16/org.glassfish.jersey.core:jersey-common:jar:2.16/org.glassfish.hk2:hk2-locator:jar:2.4.0-b09</node>
+            <node x="" y="">org.glassfish.jersey.containers:jersey-container-servlet-core:jar:2.16/org.glassfish.jersey.core:jersey-common:jar:2.16/org.glassfish.hk2:hk2-locator:jar:2.4.0-b09/org.javassist:javassist:jar:3.18.1-GA</node>
+            <node x="" y="">org.glassfish.jersey.containers:jersey-container-servlet-core:jar:2.16/org.glassfish.jersey.core:jersey-common:jar:2.16/org.glassfish.hk2:osgi-resource-locator:jar:1.0.1</node>
+            <node x="" y="">org.glassfish.jersey.containers:jersey-container-servlet-core:jar:2.16/org.glassfish.jersey.core:jersey-server:jar:2.16</node>
+            <node x="" y="">org.glassfish.jersey.containers:jersey-container-servlet-core:jar:2.16/org.glassfish.jersey.core:jersey-server:jar:2.16/org.glassfish.jersey.core:jersey-client:jar:2.16</node>
+            <node x="" y="">org.glassfish.jersey.containers:jersey-container-servlet-core:jar:2.16/org.glassfish.jersey.core:jersey-server:jar:2.16/org.glassfish.jersey.media:jersey-media-jaxb:jar:2.16</node>
+            <node x="" y="">org.glassfish.jersey.containers:jersey-container-servlet-core:jar:2.16/org.glassfish.jersey.core:jersey-server:jar:2.16/javax.validation:validation-api:jar:1.1.0.Final</node>
+            <node x="" y="">org.glassfish.jersey.containers:jersey-container-servlet-core:jar:2.16/javax.ws.rs:javax.ws.rs-api:jar:2.0.1</node>
+            <node x="" y="">javax.servlet:javax.servlet-api:jar:3.1.0</node>
+            <node x="" y="">org.glassfish.jersey.media:jersey-media-moxy:jar:2.16</node>
+            <node x="" y="">org.glassfish.jersey.media:jersey-media-moxy:jar:2.16/org.glassfish.jersey.ext:jersey-entity-filtering:jar:2.16</node>
+            <node x="" y="">org.glassfish.jersey.media:jersey-media-moxy:jar:2.16/org.eclipse.persistence:org.eclipse.persistence.moxy:jar:2.5.0</node>
+            <node x="" y="">org.glassfish.jersey.media:jersey-media-moxy:jar:2.16/org.eclipse.persistence:org.eclipse.persistence.moxy:jar:2.5.0/org.eclipse.persistence:org.eclipse.persistence.core:jar:2.5.0</node>
+            <node x="" y="">org.glassfish.jersey.media:jersey-media-moxy:jar:2.16/org.eclipse.persistence:org.eclipse.persistence.moxy:jar:2.5.0/org.eclipse.persistence:org.eclipse.persistence.core:jar:2.5.0/org.eclipse.persistence:org.eclipse.persistence.asm:jar:2.5.0</node>
+            <node x="" y="">org.glassfish.jersey.media:jersey-media-moxy:jar:2.16/org.eclipse.persistence:org.eclipse.persistence.antlr:jar:2.5.0</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.2246641074856048" x="1086.0" y="436.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1.11.3_jquery.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin/dropzone/dropzone.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/forUpload/dropzone.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/dist/min/basic.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-fileupload/commons-fileupload/1.2.2/commons-fileupload-1.2.2.jar!/org/apache/commons/fileupload/servlet/ServletFileUpload.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/UsersDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/UserController/CheckLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2074">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Connection/DBConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/UserController/BecomeSeller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1819">
+          <caret line="107" column="5" selection-start-line="93" selection-start-column="4" selection-end-line="107" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-792">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/SocialController/IdTokenVerifierAndParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/SocialController/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/welcome-page.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/LoginGmail.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="39" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Works/Eclipse Servlet/Lynda/BeautyProducts/src/BeautyIt/Beauty/Dao/ApplicationCategoryDao.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerLogoBrand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="132" column="17" selection-start-line="132" selection-start-column="17" selection-end-line="132" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddNewBrand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="84" column="24" selection-start-line="84" selection-start-column="24" selection-end-line="84" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/pages/ui/modals.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/demo.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/work/Catalina/localhost/BeautyWeb/org/apache/jsp/send_jsp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="19" column="59" lean-forward="true" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/plugins/bootstrap/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/plugins/jquery/jquery.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/plugins/bootstrap-select/js/i18n/defaults-eu.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin/plugins/jquery-slimscroll/jquery.slimscroll.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/plugins/jquery-slimscroll/jquery.slimscroll.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/admin.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/plugins/node-waves/waves.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/plugins/animate-css/animate.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/themes/theme-red.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/ImageController/AddLogo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="45" column="35" lean-forward="true" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4905#4935#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/SellerAddBrand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="116" column="5" selection-start-line="104" selection-start-column="3" selection-end-line="116" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/BrandController/ShowBusinessCart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="93" column="42" lean-forward="true" selection-start-line="93" selection-start-column="42" selection-end-line="93" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerAccount.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="287" selection-start-line="287" selection-end-line="307" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerAddBrand.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="1098" column="33" selection-start-line="1098" selection-start-column="33" selection-end-line="1098" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerAddressBook.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="352" column="33" selection-start-line="352" selection-start-column="33" selection-end-line="352" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerChangePassword.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="435" column="33" selection-start-line="435" selection-start-column="33" selection-end-line="435" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerChangingResults.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="328" column="33" selection-start-line="328" selection-start-column="33" selection-end-line="328" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerCompose.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="334" column="33" selection-start-line="334" selection-start-column="33" selection-end-line="334" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerLogoBrand.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="342" column="33" selection-start-line="342" selection-start-column="33" selection-end-line="342" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerMessageSend.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="303" column="33" selection-start-line="303" selection-start-column="33" selection-end-line="303" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerReadUserInbox.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="373" column="33" selection-start-line="373" selection-start-column="33" selection-end-line="373" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerReplay.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="338" column="33" selection-start-line="338" selection-start-column="33" selection-end-line="338" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerUpdateProfile.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="1120" column="41" selection-start-line="1120" selection-start-column="41" selection-end-line="1120" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Bean/Brands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="64" column="64" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BeautyIt/BP/Dao/BrandsDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="430" column="51" selection-start-line="430" selection-start-column="51" selection-end-line="430" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerInbox.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="295" column="70" lean-forward="true" selection-start-line="295" selection-start-column="59" selection-end-line="295" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/SellerBusinesCart.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="309" column="88" selection-start-line="309" selection-start-column="88" selection-end-line="309" selection-end-column="88" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>BeautyWeb:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jquery</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>localhost</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.protobuf:protobuf-java:3.6.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
