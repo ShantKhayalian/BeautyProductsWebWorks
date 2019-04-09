@@ -1,0 +1,62 @@
+<component name="libraryTable">
+  <library name="lib6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/mail-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/httpcore-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/jersey-media-moxy-2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/hk2-api-2.4.0-b09.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/javassist-3.18.1-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/commons-fileupload-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/jersey-server-2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/google-api-client-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/stax-ex-1.7.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/javax.ws.rs-api-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/jersey-media-jaxb-2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/jaxb-impl-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/mysql-connector-java-8.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/google-api-services-oauth2-v2-rev120-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/jaxb-runtime-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/commons-codec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/jersey-client-2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/aopalliance-repackaged-2.4.0-b09.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/commons-io-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/activation-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/hk2-utils-2.4.0-b09.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/org.eclipse.persistence.moxy-2.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/google-http-client-jackson2-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/istack-commons-runtime-3.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/jersey-container-servlet-core-2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/javax.inject-2.4.0-b09.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/jackson-core-asl-1.9.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/org.eclipse.persistence.asm-2.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/txw2-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/google-oauth-client-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/google-http-client-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/javax.servlet-api-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/javax.annotation-api-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/hk2-locator-2.4.0-b09.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/jaxb-api-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/httpclient-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/jaxb-core-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/jersey-guava-2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/org.eclipse.persistence.core-2.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/FastInfoset-1.2.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/google-http-client-jackson-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/google-api-services-plus-v1-rev453-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/gson-2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/validation-api-1.1.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/guava-jdk5-17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/protobuf-java-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/jersey-common-2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/jsr305-1.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/org.eclipse.persistence.antlr-2.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/jersey-entity-filtering-2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/jackson-core-2.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/BeautyWeb/WEB-INF/lib/osgi-resource-locator-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="RichFaces3.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.common.projecttemplates/lib/RichFaces3.1/richfaces-api-3.1.6.SR1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.common.projecttemplates/lib/RichFaces3.1/richfaces-ui-3.1.6.SR1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.common.projecttemplates/lib/RichFaces3.1/richfaces-impl-3.1.6.SR1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
