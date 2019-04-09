@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="RichFaces3.3">
     <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.common.projecttemplates/lib/RichFaces3.3/richfaces-impl-3.3.3.Final.jar!/" />
       <root url="jar://$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.common.projecttemplates/lib/RichFaces3.3/richfaces-api-3.3.3.Final.jar!/" />
       <root url="jar://$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.common.projecttemplates/lib/RichFaces3.3/richfaces-ui-3.3.3.Final.jar!/" />
-      <root url="jar://$PROJECT_DIR$/.metadata/.plugins/org.jboss.tools.common.projecttemplates/lib/RichFaces3.3/richfaces-impl-3.3.3.Final.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
