@@ -46,18 +46,7 @@ public class AddressBoxDao {
             String sql = "SELECT * FROM `humusam_root`.`addressbook` WHERE `BoxOwnerEmail` like '%" + userOwnerEmail + "%'";
             Statement statment = connection.createStatement();
             ResultSet set = statment.executeQuery(sql);
-            while (set.next()) {
-
-                addressBox = new AddressBox();
-                addressBox.setAddressBookId(set.getInt("AddressBookId"));
-                addressBox.setBoxOwnerId(set.getInt("BoxOwnerId"));
-                addressBox.setBoxOwnerName(set.getString("BoxOwnerName"));
-                addressBox.setBoxOwnerEmail(set.getString("BoxOwnerEmail"));
-                addressBox.setAddedId(set.getInt("AddedId"));
-                addressBox.setAddedName(set.getString("AddedName"));
-                addressBox.setAddedLastName(set.getString("AddedLastName"));
-                addressBoxList.add(addressBox);
-            }
+            setAddressBox(addressBoxList, set);
         } catch (SQLException exception) {
             System.out.println("sqlException in Application in Admin Section  : " + exception);
             exception.printStackTrace();
@@ -79,23 +68,28 @@ public class AddressBoxDao {
             String sql = "SELECT * FROM addressbook WHERE BoxOwnerId=" + userWebId + " ORDER BY AddedId DESC ";
             Statement statment = connection.createStatement();
             ResultSet set = statment.executeQuery(sql);
-            while (set.next()) {
-
-                addressBox = new AddressBox();
-                addressBox.setAddressBookId(set.getInt("AddressBookId"));
-                addressBox.setBoxOwnerId(set.getInt("BoxOwnerId"));
-                addressBox.setBoxOwnerName(set.getString("BoxOwnerName"));
-                addressBox.setBoxOwnerEmail(set.getString("BoxOwnerEmail"));
-                addressBox.setAddedId(set.getInt("AddedId"));
-                addressBox.setAddedName(set.getString("AddedName"));
-                addressBox.setAddedLastName(set.getString("AddedLastName"));
-                addressBoxList.add(addressBox);
-            }
+            setAddressBox(addressBoxList, set);
         } catch (SQLException exception) {
             System.out.println("sqlException in Application in LoadAllCategories Section  : " + exception);
             exception.printStackTrace();
         }
         return addressBoxList;
 
+    }
+
+    private void setAddressBox(List<AddressBox> addressBoxList, ResultSet set) throws SQLException {
+        AddressBox addressBox;
+        while (set.next()) {
+
+            addressBox = new AddressBox();
+            addressBox.setAddressBookId(set.getInt("AddressBookId"));
+            addressBox.setBoxOwnerId(set.getInt("BoxOwnerId"));
+            addressBox.setBoxOwnerName(set.getString("BoxOwnerName"));
+            addressBox.setBoxOwnerEmail(set.getString("BoxOwnerEmail"));
+            addressBox.setAddedId(set.getInt("AddedId"));
+            addressBox.setAddedName(set.getString("AddedName"));
+            addressBox.setAddedLastName(set.getString("AddedLastName"));
+            addressBoxList.add(addressBox);
+        }
     }
 }
